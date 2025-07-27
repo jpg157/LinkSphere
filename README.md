@@ -2,13 +2,8 @@
 LinkSphere
 
 ## 1. Project Description 
-Our team, BBY-31 is developing LinkSphere to help local people and journalists spread awareness on overshadowed issues, by allowing them to make posts with their geolocation onto a world map. Some of the core features of this app include, creating a post, viewing individual posts, viewing posts on a world map, viewing your profile, and viewing your history. This is a browser based application that attempts to allow users to spread awareness on issues that are not shown often by mainstream media outlets. It also attempts to get users to know better geography, and works like a map based social media.
+This is a browser based application that attempts to allow local citizens and journalists to spread awareness on issues that are not shown often by mainstream media outlets, by allowing them to make posts with their geolocation onto a world map. Some of the core features of this app include, creating a post, viewing individual posts, viewing posts on a world map, viewing profile, and viewing post history.
 
-## 2. Names of Contributors  
-* Hi, my name is Alfredo Luzardo! I am aspiring to become a software developer and I am really excited to make this project a reality.
-* Hi my name is Kristian Santos, building this project is exciting to me.
-* Hi my name is Jason Lau! I am excited to contribute to this project and collaborate as a team.
-	
 ## 3. Technologies and Resources Used
 List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
 * HTML, CSS, JavaScript
