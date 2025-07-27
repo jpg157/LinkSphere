@@ -8,8 +8,8 @@ This is a browser based application that attempts to allow local citizens and jo
 * Create a post
 * View individual posts
 * View posts on a world map
-* View profile
 * View post history
+* View own profile
 
 ## 3. Technologies and Resources Used
 List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
