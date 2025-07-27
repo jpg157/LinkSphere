@@ -2,7 +2,14 @@
 LinkSphere
 
 ## 1. Project Description 
-This is a browser based application that attempts to allow local citizens and journalists to spread awareness on issues that are not shown often by mainstream media outlets, by allowing them to make posts with their geolocation onto a world map. Some of the core features of this app include, creating a post, viewing individual posts, viewing posts on a world map, viewing profile, and viewing post history.
+This is a browser based application that attempts to allow local citizens and journalists to spread awareness on issues that are not shown often by mainstream media outlets, by allowing them to make posts with their geolocation onto a world map.
+
+## 3. Core Features
+* Create a post
+* View individual posts
+* View posts on a world map
+* View profile
+* View post history
 
 ## 3. Technologies and Resources Used
 List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
