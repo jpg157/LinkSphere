@@ -2,23 +2,19 @@
 
 A browser based application that attempts to allow local citizens and journalists to spread awareness on issues that are not shown often by mainstream media outlets, by allowing them to make posts with their geolocation onto a world map.
 
-## 3. Features
+## Features
 * Create a post
 * View individual posts
 * View posts on a world map
 * View post history
 * View own profile
 
-## 3. Technologies and Resources Used
-List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
+## Technologies Used
 * HTML, CSS, JavaScript
-* Bootstrap 5.0 (Frontend library)
+* Bootstrap 5.0 (frontend library)
 * Firebase 8.0 (Backend as a Service)
 * MapBox 2.7.0
-* Manrope font
 * Logo made by LinkSphere!
-* Google Material Icons and Symbols Outlined
-* Fontawesome icons
 
 ## Usage
 * To use our application, a user needs to create an account when they first open the website.
@@ -29,7 +25,6 @@ List technologies (with version numbers), API's, icons, fonts, images, media or 
 * A user can also check the aboutus page to understand more about this application.
 
 ## Known Bugs and Limitations
-Here are some known bugs:
 * The main.html page has a fluidity issue. The size of the screen can change in height whenever a user zooms in our out. 
 * The Navigation Bar has a sizing issue; Right before the switch to mobile view the navigation bar becomes compressed/squished.
 * The application does not let you know that the image of the post is uploading whenever a post is created. This means that users may become confused and hit the submit button button multiple times. If they do this the post will be uploaded multiple times, and the post will not register that it was from the user.
@@ -40,10 +35,9 @@ Here are some known bugs:
 * There is a footer issue on the profile page, where a normal bootstrap footer stays in the middle of the page when there are no posts, and sticky footer covers posts when there are more than one. 
 
 ## Features for Future
-What we'd like to build in the future:
-* We want to complete the search bar and filter functionality. We think this would allow for greater user experience and efficiency.
-* We want to include a comments section for each post so that users can discuss about the topic. 
-* We want to allow users to visit other profiles and search for other profiles.
+* We want to complete the search bar and filter functionality to allow for greater user experience and efficiency.
+* We want to include a comments section for each post so that users can discuss about a news topic. 
+* We want to allow users to be able to search for and visit other profiles.
 
 ## Team
 *   [Alfredo Luzardo](https://github.com/AlfredoLuzardo)
