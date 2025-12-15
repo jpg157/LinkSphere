@@ -46,6 +46,6 @@ What we'd like to build in the future:
 * We want to allow users to visit other profiles and search for other profiles.
 
 ## Team
-*   [Jason Lau](https://github.com/jpg157)
 *   [Alfredo Luzardo](https://github.com/AlfredoLuzardo)
+*   [Jason Lau](https://github.com/jpg157)
 *   [Kristian Santos](https://github.com/krsant05)
