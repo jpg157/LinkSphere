@@ -3,11 +3,12 @@
 A browser based application that attempts to allow local citizens and journalists to spread awareness on issues that are not shown often by mainstream media outlets, by allowing them to make posts with their geolocation onto a world map.
 
 ## Features
-* Create a post
+Users can:
+* Create posts
 * View individual posts
 * View posts on a world map
 * View post history
-* View own profile
+* View their own profile
 
 ## Technologies Used
 * HTML, CSS, JavaScript
@@ -17,12 +18,12 @@ A browser based application that attempts to allow local citizens and journalist
 * Logo made by LinkSphere!
 
 ## Usage
-* To use our application, a user needs to create an account when they first open the website.
+* To use our application, a user first needs to login/sign up.
 * Then, a user can view and read all of the posts created by users on the map and in the side panel. 
 * If a user wants to create a post, they can go to the incorporate post page to create one. 
 * Then they can check their profile to view how many posts they have read, the posts they have created, and other info. 
 * If the user wants to re-read or view the posts they have read, they can go to the post history page.
-* A user can also check the aboutus page to understand more about this application.
+* A user can also check the "About Us" page to learn more about this application.
 
 ## Known Bugs and Limitations
 * The main.html page has a fluidity issue. The size of the screen can change in height whenever a user zooms in our out. 
